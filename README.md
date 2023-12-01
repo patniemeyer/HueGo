@@ -1,2 +1,3 @@
 # HueGo
-Archive of this Philips Hue bulb controller app
+
+Archive of my Philips Hue bulb controller app
